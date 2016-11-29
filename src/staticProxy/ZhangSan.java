@@ -1,0 +1,9 @@
+package staticProxy;
+
+public class ZhangSan implements People {
+
+	public void zhaoduixiang() {
+		System.out.println("Œ“÷ªœ≤ª∂∆Ø¡¡µƒ£°£°£°");
+	}
+
+}
