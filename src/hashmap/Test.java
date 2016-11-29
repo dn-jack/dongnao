@@ -8,6 +8,8 @@ public class Test {
         new Test().chenyi2(init);
         
         System.out.println();
+        new Test().chenyi2(init);
+        
     }
     
     //����2
